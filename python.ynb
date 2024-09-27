@@ -1,0 +1,30 @@
+Data Science Tools and Ecosystem
+some of the commonly used libraries used by Data Scientists include
+
+TensorFlow.
+NumPy.
+Scipy
+Pandas
+Matplotlib
+keras
+Scikit-Learn.
+PyTorch. etc..;
+Data Science Tools
+SAS
+Apache Hadoop
+TensorFlow
+Below are a few examples of evaluating arithmetic expression in Python.
+
+#this is a common arithmetic example to multiply and then add integers
+(3*4)+5
+17
+#This will convert 200 minutes to hours by dividing by 60
+200/60
+3.3333333333333335
+Objective
+
+List popular languages for Data Science
+List popular libraries for Data Science
+List of Well known Data Science Tools
+How to provide comments in the cell
+Author Pavan Deokar
